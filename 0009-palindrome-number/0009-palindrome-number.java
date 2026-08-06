@@ -1,8 +1,15 @@
 class Solution {
     public boolean isPalindrome(int x) {
-    String s = String.valueOf(x);
-    String r = new StringBuilder(s).reverse().toString();
-
-    return s.equals(r);
+        int temp = x;
+        int rev = 0;
+        if(x<0){
+            return false;
+        }
+        while(x!=0){
+            int s = x%10;
+            rev = rev*10+s;
+            x /= 10;
+        }
+        return temp==rev;
     }
 }
