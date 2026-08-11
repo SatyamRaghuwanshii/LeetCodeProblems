@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
