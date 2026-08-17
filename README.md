@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0055-jump-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
