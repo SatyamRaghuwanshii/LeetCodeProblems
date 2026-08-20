@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0283-move-zeroes) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
