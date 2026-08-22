@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
