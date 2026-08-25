@@ -1,6 +1,7 @@
 class Solution {
     public int firstUniqChar(String s) {
        int[] charr = new int[26];
+        
        for(int i = 0; i <s.length(); i++){
         charr[s.charAt(i) - 'a']++;
        }
