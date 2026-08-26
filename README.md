@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0055-jump-game) |
 ## String
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
