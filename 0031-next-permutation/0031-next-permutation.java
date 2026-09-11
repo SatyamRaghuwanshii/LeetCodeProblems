@@ -1,27 +1,32 @@
 class Solution {
     public void nextPermutation(int[] nums) {
         int i = nums.length-1;
-        int j = nums.length-1;
+        int j = i;
         while(i>0 && nums[i] <= nums[i-1]){
             i--;
         }
         if(i == 0){
-            Arrays.sort(nums);
-            return;
+            reverse(nums,0);
+        }else{
+            while(nums[j] <= nums[i-1]){
+                j--;
+            }
+            swap(nums,i-1,j);
+            reverse(nums,i);
         }
-        int pivot = nums[i-1];
-        while(nums[j] <= pivot){
-            j--;
-        }
-        nums[i-1] = nums[j];
-        nums[j] = pivot;
-        int k = nums.length-1;
-        while(i<k){
-            int temp = nums[i];
-            nums[i] = nums[k];
-            nums[k] = temp;
-            k--;
-            i++;
+    }
+    void swap(int[] arr, int l, int r){
+        int temp = arr[l];
+        arr[l] = arr[r];
+        arr[r] = temp;
+    }
+    void reverse(int[] arr, int start){
+        int l = start;
+        int r = arr.length-1;
+        while(l<r){
+            swap(arr,l,r);
+            l++;
+            r--;
         }
     }
 }
