@@ -3,6 +3,7 @@
 A topic-first index of the **226 problem folders** in this repository. Each folder contains a solution and problem statement. Problems are grouped by a primary study area; techniques can overlap.
 
 ## Topic navigator
+### Topics
 
 - [Arrays and Hashing](#arrays-and-hashing) — 35 problems
 - [Strings](#strings) — 14 problems
@@ -251,6 +252,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Arrays and Hashing
 
+- [Back to Top](#topics)
 - [2. Add Two Numbers](0002-add-two-numbers/)
 - [14. Longest Common Prefix](0014-longest-common-prefix/)
 - [31. Next Permutation](0031-next-permutation/)
@@ -289,6 +291,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Strings
 
+- [Back to Top](#topics)
 - [8. String to Integer (atoi)](0008-string-to-integer-atoi/)
 - [28. Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/)
 - [38. Count and Say](0038-count-and-say/)
@@ -306,6 +309,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Linked Lists
 
+- [Back to Top](#topics)
 - [19. Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/)
 - [21. Merge Two Sorted Lists](0021-merge-two-sorted-lists/)
 - [24. Swap Nodes in Pairs](0024-swap-nodes-in-pairs/)
@@ -333,6 +337,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Trees and BST
 
+- [Back to Top](#topics)
 - [3. Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/)
 - [5. Longest Palindromic Substring](0005-longest-palindromic-substring/)
 - [76. Minimum Window Substring](0076-minimum-window-substring/)
@@ -367,6 +372,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Stacks and Queues
 
+- [Back to Top](#topics)
 - [20. Valid Parentheses](0020-valid-parentheses/)
 - [32. Longest Valid Parentheses](0032-longest-valid-parentheses/)
 - [71. Simplify Path](0071-simplify-path/)
@@ -394,6 +400,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Searching and Sorting
 
+- [Back to Top](#topics)
 - [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/)
 - [26. Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/)
 - [33. Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/)
@@ -414,6 +421,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Two Pointers and Sliding Window
 
+- [Back to Top](#topics)
 - [1. Two Sum](0001-two-sum/)
 - [11. Container With Most Water](0011-container-with-most-water/)
 - [15. 3Sum](0015-3sum/)
@@ -439,6 +447,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Dynamic Programming and Greedy
 
+- [Back to Top](#topics)
 - [45. Jump Game II](0045-jump-game-ii/)
 - [53. Maximum Subarray](0053-maximum-subarray/)
 - [55. Jump Game](0055-jump-game/)
@@ -458,6 +467,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Math and Bit Manipulation
 
+- [Back to Top](#Topics)
 - [7. Reverse Integer](0007-reverse-integer/)
 - [9. Palindrome Number](0009-palindrome-number/)
 - [12. Integer to Roman](0012-integer-to-roman/)
@@ -495,6 +505,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### Matrices and Simulation
 
+- [Back to Top](#topics)
 - [36. Valid Sudoku](0036-valid-sudoku/)
 - [48. Rotate Image](0048-rotate-image/)
 - [54. Spiral Matrix](0054-spiral-matrix/)
@@ -502,6 +513,7 @@ Jump directly to any problem folder. This list is sorted by LeetCode problem num
 
 ### SQL
 
+- [Back to Top](#topics)
 - [584. Find Customer Referee](0584-find-customer-referee/)
 - [595. Big Countries](0595-big-countries/)
 - [1148. Article Views I](1148-article-views-i/)
