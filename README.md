@@ -1,150 +1,510 @@
-A collection of LeetCode questions to ace the coding interview!
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0009-palindrome-number) |
-| [0048-rotate-image](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0048-rotate-image) |
-| [0050-powx-n](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0050-powx-n) |
-| [0189-rotate-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0189-rotate-array) |
-| [0268-missing-number](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0268-missing-number) |
-| [0507-perfect-number](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0507-perfect-number) |
-## Array
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
-| [0011-container-with-most-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0015-3sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0027-remove-element) |
-| [0035-search-insert-position](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0035-search-insert-position) |
-| [0042-trapping-rain-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
-| [0045-jump-game-ii](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0045-jump-game-ii) |
-| [0048-rotate-image](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0048-rotate-image) |
-| [0055-jump-game](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0055-jump-game) |
-| [0088-merge-sorted-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
-| [0189-rotate-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0189-rotate-array) |
-| [0268-missing-number](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0268-missing-number) |
-| [0283-move-zeroes](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0283-move-zeroes) |
-| [0485-max-consecutive-ones](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
-| [0674-longest-continuous-increasing-subsequence](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0674-longest-continuous-increasing-subsequence) |
-| [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0015-3sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0027-remove-element) |
-| [0042-trapping-rain-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
-| [0088-merge-sorted-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
-| [0125-valid-palindrome](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0125-valid-palindrome) |
-| [0189-rotate-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0283-move-zeroes) |
-| [0344-reverse-string](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0344-reverse-string) |
-| [0557-reverse-words-in-a-string-iii](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0011-container-with-most-water) |
-| [0045-jump-game-ii](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0045-jump-game-ii) |
-| [0055-jump-game](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0055-jump-game) |
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
-| [0058-length-of-last-word](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0058-length-of-last-word) |
-| [0125-valid-palindrome](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0125-valid-palindrome) |
-| [0242-valid-anagram](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0242-valid-anagram) |
-| [0344-reverse-string](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0344-reverse-string) |
-| [0387-first-unique-character-in-a-string](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
-| [0389-find-the-difference](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0389-find-the-difference) |
-| [0557-reverse-words-in-a-string-iii](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
-| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0032-longest-valid-parentheses](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
-| [0042-trapping-rain-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
-| [0045-jump-game-ii](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0045-jump-game-ii) |
-| [0055-jump-game](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0055-jump-game) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
-| [0042-trapping-rain-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
-| [0035-search-insert-position](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0035-search-insert-position) |
-| [0268-missing-number](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0268-missing-number) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
-| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
-## Hash Table
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
-| [0242-valid-anagram](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0268-missing-number) |
-| [0387-first-unique-character-in-a-string](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
-| [0389-find-the-difference](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0389-find-the-difference) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0015-3sum) |
-| [0088-merge-sorted-array](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
-| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
-| [0242-valid-anagram](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0268-missing-number) |
-| [0389-find-the-difference](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0389-find-the-difference) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
-| [0387-first-unique-character-in-a-string](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
-## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0169-majority-element) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0048-rotate-image) |
-## Simulation
-|  |
-| ------- |
-| [3069-distribute-elements-into-two-arrays-i](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
-## Recursion
-|  |
-| ------- |
-| [0050-powx-n](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0050-powx-n) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0268-missing-number) |
-| [0389-find-the-difference](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0389-find-the-difference) |
-## Queue
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/SatyamRaghuwanshii/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
-<!---LeetCode Topics End-->
+# LeetCode Problems
+
+A topic-first index of the **226 problem folders** in this repository. Each folder contains a solution and problem statement. Problems are grouped by a primary study area; techniques can overlap.
+
+## Topic navigator
+
+- [Arrays and Hashing](#arrays-and-hashing) — 35 problems
+- [Strings](#strings) — 14 problems
+- [Linked Lists](#linked-lists) — 24 problems
+- [Trees and BST](#trees-and-bst) — 31 problems
+- [Stacks and Queues](#stacks-and-queues) — 24 problems
+- [Searching and Sorting](#searching-and-sorting) — 17 problems
+- [Two Pointers and Sliding Window](#two-pointers-and-sliding-window) — 22 problems
+- [Dynamic Programming and Greedy](#dynamic-programming-and-greedy) — 16 problems
+- [Math and Bit Manipulation](#math-and-bit-manipulation) — 34 problems
+- [Matrices and Simulation](#matrices-and-simulation) — 4 problems
+- [SQL](#sql) — 5 problems
+
+## Problem navigator
+
+Jump directly to any problem folder. This list is sorted by LeetCode problem number.
+
+- [1. Two Sum](0001-two-sum/)
+- [2. Add Two Numbers](0002-add-two-numbers/)
+- [3. Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/)
+- [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/)
+- [5. Longest Palindromic Substring](0005-longest-palindromic-substring/)
+- [7. Reverse Integer](0007-reverse-integer/)
+- [8. String to Integer (atoi)](0008-string-to-integer-atoi/)
+- [9. Palindrome Number](0009-palindrome-number/)
+- [11. Container With Most Water](0011-container-with-most-water/)
+- [12. Integer to Roman](0012-integer-to-roman/)
+- [13. Roman to Integer](0013-roman-to-integer/)
+- [14. Longest Common Prefix](0014-longest-common-prefix/)
+- [15. 3Sum](0015-3sum/)
+- [16. 3Sum Closest](0016-3sum-closest/)
+- [18. 4Sum](0018-4sum/)
+- [19. Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/)
+- [20. Valid Parentheses](0020-valid-parentheses/)
+- [21. Merge Two Sorted Lists](0021-merge-two-sorted-lists/)
+- [24. Swap Nodes in Pairs](0024-swap-nodes-in-pairs/)
+- [26. Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/)
+- [27. Remove Element](0027-remove-element/)
+- [28. Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/)
+- [31. Next Permutation](0031-next-permutation/)
+- [32. Longest Valid Parentheses](0032-longest-valid-parentheses/)
+- [33. Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/)
+- [34. Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/)
+- [35. Search Insert Position](0035-search-insert-position/)
+- [36. Valid Sudoku](0036-valid-sudoku/)
+- [38. Count and Say](0038-count-and-say/)
+- [42. Trapping Rain Water](0042-trapping-rain-water/)
+- [45. Jump Game II](0045-jump-game-ii/)
+- [48. Rotate Image](0048-rotate-image/)
+- [49. Group Anagrams](0049-group-anagrams/)
+- [50. Pow(x, n)](0050-powx-n/)
+- [53. Maximum Subarray](0053-maximum-subarray/)
+- [54. Spiral Matrix](0054-spiral-matrix/)
+- [55. Jump Game](0055-jump-game/)
+- [57. Insert Interval](0057-insert-interval/)
+- [58. Length of Last Word](0058-length-of-last-word/)
+- [59. Spiral Matrix II](0059-spiral-matrix-ii/)
+- [61. Rotate List](0061-rotate-list/)
+- [62. Unique Paths](0062-unique-paths/)
+- [66. Plus One](0066-plus-one/)
+- [69. Sqrt(x)](0069-sqrtx/)
+- [70. Climbing Stairs](0070-climbing-stairs/)
+- [71. Simplify Path](0071-simplify-path/)
+- [74. Search a 2D Matrix](0074-search-a-2d-matrix/)
+- [75. Sort Colors](0075-sort-colors/)
+- [76. Minimum Window Substring](0076-minimum-window-substring/)
+- [83. Remove Duplicates from Sorted List](0083-remove-duplicates-from-sorted-list/)
+- [84. Largest Rectangle in Histogram](0084-largest-rectangle-in-histogram/)
+- [86. Partition List](0086-partition-list/)
+- [88. Merge Sorted Array](0088-merge-sorted-array/)
+- [92. Reverse Linked List II](0092-reverse-linked-list-ii/)
+- [94. Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/)
+- [98. Validate Binary Search Tree](0098-validate-binary-search-tree/)
+- [100. Same Tree](0100-same-tree/)
+- [101. Symmetric Tree](0101-symmetric-tree/)
+- [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/)
+- [103. Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/)
+- [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](0105-construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [107. Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/)
+- [108. Convert Sorted Array to Binary Search Tree](0108-convert-sorted-array-to-binary-search-tree/)
+- [110. Balanced Binary Tree](0110-balanced-binary-tree/)
+- [111. Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/)
+- [112. Path Sum](0112-path-sum/)
+- [113. Path Sum II](0113-path-sum-ii/)
+- [115. Distinct Subsequences](0115-distinct-subsequences/)
+- [118. Pascal's Triangle](0118-pascals-triangle/)
+- [120. Triangle](0120-triangle/)
+- [121. Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/)
+- [124. Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/)
+- [125. Valid Palindrome](0125-valid-palindrome/)
+- [128. Longest Consecutive Sequence](0128-longest-consecutive-sequence/)
+- [129. Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers/)
+- [138. Copy List with Random Pointer](0138-copy-list-with-random-pointer/)
+- [141. Linked List Cycle](0141-linked-list-cycle/)
+- [142. Linked List Cycle II](0142-linked-list-cycle-ii/)
+- [143. Reorder List](0143-reorder-list/)
+- [144. Binary Tree Preorder Traversal](0144-binary-tree-preorder-traversal/)
+- [145. Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/)
+- [148. Sort List](0148-sort-list/)
+- [150. Evaluate Reverse Polish Notation](0150-evaluate-reverse-polish-notation/)
+- [155. Min Stack](0155-min-stack/)
+- [160. Intersection of Two Linked Lists](0160-intersection-of-two-linked-lists/)
+- [167. Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/)
+- [169. Majority Element](0169-majority-element/)
+- [189. Rotate Array](0189-rotate-array/)
+- [198. House Robber](0198-house-robber/)
+- [199. Binary Tree Right Side View](0199-binary-tree-right-side-view/)
+- [202. Happy Number](0202-happy-number/)
+- [203. Remove Linked List Elements](0203-remove-linked-list-elements/)
+- [205. Isomorphic Strings](0205-isomorphic-strings/)
+- [206. Reverse Linked List](0206-reverse-linked-list/)
+- [213. House Robber II](0213-house-robber-ii/)
+- [217. Contains Duplicate](0217-contains-duplicate/)
+- [219. Contains Duplicate II](0219-contains-duplicate-ii/)
+- [220. Contains Duplicate III](0220-contains-duplicate-iii/)
+- [223. Rectangle Area](0223-rectangle-area/)
+- [225. Implement Stack using Queues](0225-implement-stack-using-queues/)
+- [226. Invert Binary Tree](0226-invert-binary-tree/)
+- [229. Majority Element II](0229-majority-element-ii/)
+- [230. Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/)
+- [232. Implement Queue using Stacks](0232-implement-queue-using-stacks/)
+- [234. Palindrome Linked List](0234-palindrome-linked-list/)
+- [236. Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/)
+- [237. Delete Node in a Linked List](0237-delete-node-in-a-linked-list/)
+- [238. Product of Array Except Self](0238-product-of-array-except-self/)
+- [242. Valid Anagram](0242-valid-anagram/)
+- [257. Binary Tree Paths](0257-binary-tree-paths/)
+- [258. Add Digits](0258-add-digits/)
+- [263. Ugly Number](0263-ugly-number/)
+- [268. Missing Number](0268-missing-number/)
+- [283. Move Zeroes](0283-move-zeroes/)
+- [290. Word Pattern](0290-word-pattern/)
+- [324. Wiggle Sort II](0324-wiggle-sort-ii/)
+- [328. Odd Even Linked List](0328-odd-even-linked-list/)
+- [337. House Robber III](0337-house-robber-iii/)
+- [344. Reverse String](0344-reverse-string/)
+- [345. Reverse Vowels of a String](0345-reverse-vowels-of-a-string/)
+- [349. Intersection of Two Arrays](0349-intersection-of-two-arrays/)
+- [350. Intersection of Two Arrays II](0350-intersection-of-two-arrays-ii/)
+- [383. Ransom Note](0383-ransom-note/)
+- [387. First Unique Character in a String](0387-first-unique-character-in-a-string/)
+- [389. Find the Difference](0389-find-the-difference/)
+- [394. Decode String](0394-decode-string/)
+- [402. Remove K Digits](0402-remove-k-digits/)
+- [412. Fizz Buzz](0412-fizz-buzz/)
+- [415. Add Strings](0415-add-strings/)
+- [424. Longest Repeating Character Replacement](0424-longest-repeating-character-replacement/)
+- [453. Minimum Moves to Equal Array Elements](0453-minimum-moves-to-equal-array-elements/)
+- [462. Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/)
+- [485. Max Consecutive Ones](0485-max-consecutive-ones/)
+- [496. Next Greater Element I](0496-next-greater-element-i/)
+- [503. Next Greater Element II](0503-next-greater-element-ii/)
+- [507. Perfect Number](0507-perfect-number/)
+- [509. Fibonacci Number](0509-fibonacci-number/)
+- [515. Find Largest Value in Each Tree Row](0515-find-largest-value-in-each-tree-row/)
+- [543. Diameter of Binary Tree](0543-diameter-of-binary-tree/)
+- [557. Reverse Words in a String III](0557-reverse-words-in-a-string-iii/)
+- [560. Subarray Sum Equals K](0560-subarray-sum-equals-k/)
+- [567. Permutation in String](0567-permutation-in-string/)
+- [584. Find Customer Referee](0584-find-customer-referee/)
+- [595. Big Countries](0595-big-countries/)
+- [622. Design Circular Queue](0622-design-circular-queue/)
+- [643. Maximum Average Subarray I](0643-maximum-average-subarray-i/)
+- [674. Longest Continuous Increasing Subsequence](0674-longest-continuous-increasing-subsequence/)
+- [680. Valid Palindrome II](0680-valid-palindrome-ii/)
+- [682. Baseball Game](0682-baseball-game/)
+- [700. Search in a Binary Search Tree](0700-search-in-a-binary-search-tree/)
+- [701. Insert into a Binary Search Tree](0701-insert-into-a-binary-search-tree/)
+- [724. Find Pivot Index](0724-find-pivot-index/)
+- [739. Daily Temperatures](0739-daily-temperatures/)
+- [746. Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/)
+- [754. Reach a Number](0754-reach-a-number/)
+- [771. Jewels and Stones](0771-jewels-and-stones/)
+- [836. Rectangle Overlap](0836-rectangle-overlap/)
+- [844. Backspace String Compare](0844-backspace-string-compare/)
+- [852. Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/)
+- [856. Score of Parentheses](0856-score-of-parentheses/)
+- [876. Middle of the Linked List](0876-middle-of-the-linked-list/)
+- [901. Online Stock Span](0901-online-stock-span/)
+- [904. Fruit Into Baskets](0904-fruit-into-baskets/)
+- [905. Sort Array By Parity](0905-sort-array-by-parity/)
+- [921. Minimum Add to Make Parentheses Valid](0921-minimum-add-to-make-parentheses-valid/)
+- [922. Sort Array By Parity II](0922-sort-array-by-parity-ii/)
+- [933. Number of Recent Calls](0933-number-of-recent-calls/)
+- [940. Distinct Subsequences II](0940-distinct-subsequences-ii/)
+- [1021. Remove Outermost Parentheses](1021-remove-outermost-parentheses/)
+- [1025. Divisor Game](1025-divisor-game/)
+- [1047. Remove All Adjacent Duplicates In String](1047-remove-all-adjacent-duplicates-in-string/)
+- [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/)
+- [1148. Article Views I](1148-article-views-i/)
+- [1290. Convert Binary Number in a Linked List to Integer](1290-convert-binary-number-in-a-linked-list-to-integer/)
+- [1346. Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist/)
+- [1385. Find the Distance Value Between Two Arrays](1385-find-the-distance-value-between-two-arrays/)
+- [1401. Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/)
+- [1480. Running Sum of 1d Array](1480-running-sum-of-1d-array/)
+- [1527. Patients With a Condition](1527-patients-with-a-condition/)
+- [1544. Make The String Great](1544-make-the-string-great/)
+- [1614. Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/)
+- [1669. Merge In Between Linked Lists](1669-merge-in-between-linked-lists/)
+- [1700. Number of Students Unable to Eat Lunch](1700-number-of-students-unable-to-eat-lunch/)
+- [1732. Find the Highest Altitude](1732-find-the-highest-altitude/)
+- [1748. Sum of Unique Elements](1748-sum-of-unique-elements/)
+- [1757. Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/)
+- [1807. Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/)
+- [2073. Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets/)
+- [2089. Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/)
+- [2091. Removing Minimum and Maximum From Array](2091-removing-minimum-and-maximum-from-array/)
+- [2095. Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list/)
+- [2130. Maximum Twin Sum of a Linked List](2130-maximum-twin-sum-of-a-linked-list/)
+- [2235. Add Two Integers](2235-add-two-integers/)
+- [2243. Calculate Digit Sum of a String](2243-calculate-digit-sum-of-a-string/)
+- [2390. Removing Stars From a String](2390-removing-stars-from-a-string/)
+- [2409. Count Days Spent Together](2409-count-days-spent-together/)
+- [2492. Length of the Longest Alphabetical Continuous Substring](2414-length-of-the-longest-alphabetical-continuous-substring/)
+- [2703. Return Length of Arguments Passed](2703-return-length-of-arguments-passed/)
+- [2778. Sum of Squares of Special Elements](2778-sum-of-squares-of-special-elements/)
+- [2807. Insert Greatest Common Divisors in Linked List](2807-insert-greatest-common-divisors-in-linked-list/)
+- [2913. Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/)
+- [2914. Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/)
+- [2957. Remove Adjacent Almost-Equal Characters](2957-remove-adjacent-almost-equal-characters/)
+- [3347. Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/)
+- [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/)
+- [3110. Score of a String](3110-score-of-a-string/)
+- [3270. Find the Key of the Numbers](3270-find-the-key-of-the-numbers/)
+- [3289. The Two Sneaky Numbers of Digitville](3289-the-two-sneaky-numbers-of-digitville/)
+- [3364. Minimum Positive Sum Subarray](3364-minimum-positive-sum-subarray/)
+- [3498. Reverse Degree of a String](3498-reverse-degree-of-a-string/)
+- [3516. Find Closest Person](3516-find-closest-person/)
+- [3550. Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/)
+- [3727. Maximum Alternating Sum of Squares](3727-maximum-alternating-sum-of-squares/)
+- [3736. Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/)
+- [3863. Minimum Operations to Sort a String](3863-minimum-operations-to-sort-a-string/)
+- [3870. Count Commas in Range](3870-count-commas-in-range/)
+- [3871. Count Commas in Range II](3871-count-commas-in-range-ii/)
+- [3875. Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/)
+- [3876. Construct Uniform Parity Array II](3876-construct-uniform-parity-array-ii/)
+- [3898. Find the Degree of Each Vertex](3898-find-the-degree-of-each-vertex/)
+- [3903. Smallest Stable Index I](3903-smallest-stable-index-i/)
+- [3904. Smallest Stable Index II](3904-smallest-stable-index-ii/)
+- [3925. Concatenate Array With Reverse](3925-concatenate-array-with-reverse/)
+- [4043-Count-Rotations-With-Exactly-K-Equal-Adjacent-Pairs](4043-Count-Rotations-With-Exactly-K-Equal-Adjacent-Pairs/)
+- [4044. Count Good Cyclic Rotations](4044-count-good-cyclic-rotations/)
+
+## Problems by topic
+
+### Arrays and Hashing
+
+- [2. Add Two Numbers](0002-add-two-numbers/)
+- [14. Longest Common Prefix](0014-longest-common-prefix/)
+- [31. Next Permutation](0031-next-permutation/)
+- [57. Insert Interval](0057-insert-interval/)
+- [121. Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/)
+- [128. Longest Consecutive Sequence](0128-longest-consecutive-sequence/)
+- [169. Majority Element](0169-majority-element/)
+- [217. Contains Duplicate](0217-contains-duplicate/)
+- [219. Contains Duplicate II](0219-contains-duplicate-ii/)
+- [220. Contains Duplicate III](0220-contains-duplicate-iii/)
+- [229. Majority Element II](0229-majority-element-ii/)
+- [238. Product of Array Except Self](0238-product-of-array-except-self/)
+- [389. Find the Difference](0389-find-the-difference/)
+- [424. Longest Repeating Character Replacement](0424-longest-repeating-character-replacement/)
+- [674. Longest Continuous Increasing Subsequence](0674-longest-continuous-increasing-subsequence/)
+- [724. Find Pivot Index](0724-find-pivot-index/)
+- [771. Jewels and Stones](0771-jewels-and-stones/)
+- [933. Number of Recent Calls](0933-number-of-recent-calls/)
+- [1346. Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist/)
+- [1385. Find the Distance Value Between Two Arrays](1385-find-the-distance-value-between-two-arrays/)
+- [1480. Running Sum of 1d Array](1480-running-sum-of-1d-array/)
+- [1732. Find the Highest Altitude](1732-find-the-highest-altitude/)
+- [1748. Sum of Unique Elements](1748-sum-of-unique-elements/)
+- [2073. Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets/)
+- [2409. Count Days Spent Together](2409-count-days-spent-together/)
+- [2703. Return Length of Arguments Passed](2703-return-length-of-arguments-passed/)
+- [2957. Remove Adjacent Almost-Equal Characters](2957-remove-adjacent-almost-equal-characters/)
+- [3347. Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/)
+- [3516. Find Closest Person](3516-find-closest-person/)
+- [3875. Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/)
+- [3876. Construct Uniform Parity Array II](3876-construct-uniform-parity-array-ii/)
+- [3898. Find the Degree of Each Vertex](3898-find-the-degree-of-each-vertex/)
+- [3903. Smallest Stable Index I](3903-smallest-stable-index-i/)
+- [3904. Smallest Stable Index II](3904-smallest-stable-index-ii/)
+- [3925. Concatenate Array With Reverse](3925-concatenate-array-with-reverse/)
+
+### Strings
+
+- [8. String to Integer (atoi)](0008-string-to-integer-atoi/)
+- [28. Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/)
+- [38. Count and Say](0038-count-and-say/)
+- [49. Group Anagrams](0049-group-anagrams/)
+- [58. Length of Last Word](0058-length-of-last-word/)
+- [205. Isomorphic Strings](0205-isomorphic-strings/)
+- [242. Valid Anagram](0242-valid-anagram/)
+- [290. Word Pattern](0290-word-pattern/)
+- [383. Ransom Note](0383-ransom-note/)
+- [387. First Unique Character in a String](0387-first-unique-character-in-a-string/)
+- [415. Add Strings](0415-add-strings/)
+- [1047. Remove All Adjacent Duplicates In String](1047-remove-all-adjacent-duplicates-in-string/)
+- [1544. Make The String Great](1544-make-the-string-great/)
+- [3110. Score of a String](3110-score-of-a-string/)
+
+### Linked Lists
+
+- [19. Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/)
+- [21. Merge Two Sorted Lists](0021-merge-two-sorted-lists/)
+- [24. Swap Nodes in Pairs](0024-swap-nodes-in-pairs/)
+- [61. Rotate List](0061-rotate-list/)
+- [83. Remove Duplicates from Sorted List](0083-remove-duplicates-from-sorted-list/)
+- [86. Partition List](0086-partition-list/)
+- [92. Reverse Linked List II](0092-reverse-linked-list-ii/)
+- [138. Copy List with Random Pointer](0138-copy-list-with-random-pointer/)
+- [141. Linked List Cycle](0141-linked-list-cycle/)
+- [142. Linked List Cycle II](0142-linked-list-cycle-ii/)
+- [143. Reorder List](0143-reorder-list/)
+- [148. Sort List](0148-sort-list/)
+- [160. Intersection of Two Linked Lists](0160-intersection-of-two-linked-lists/)
+- [203. Remove Linked List Elements](0203-remove-linked-list-elements/)
+- [206. Reverse Linked List](0206-reverse-linked-list/)
+- [234. Palindrome Linked List](0234-palindrome-linked-list/)
+- [237. Delete Node in a Linked List](0237-delete-node-in-a-linked-list/)
+- [328. Odd Even Linked List](0328-odd-even-linked-list/)
+- [876. Middle of the Linked List](0876-middle-of-the-linked-list/)
+- [1290. Convert Binary Number in a Linked List to Integer](1290-convert-binary-number-in-a-linked-list-to-integer/)
+- [1669. Merge In Between Linked Lists](1669-merge-in-between-linked-lists/)
+- [2095. Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list/)
+- [2130. Maximum Twin Sum of a Linked List](2130-maximum-twin-sum-of-a-linked-list/)
+- [2807. Insert Greatest Common Divisors in Linked List](2807-insert-greatest-common-divisors-in-linked-list/)
+
+### Trees and BST
+
+- [3. Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/)
+- [5. Longest Palindromic Substring](0005-longest-palindromic-substring/)
+- [76. Minimum Window Substring](0076-minimum-window-substring/)
+- [94. Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/)
+- [98. Validate Binary Search Tree](0098-validate-binary-search-tree/)
+- [100. Same Tree](0100-same-tree/)
+- [101. Symmetric Tree](0101-symmetric-tree/)
+- [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/)
+- [103. Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/)
+- [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree/)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](0105-construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [107. Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/)
+- [108. Convert Sorted Array to Binary Search Tree](0108-convert-sorted-array-to-binary-search-tree/)
+- [110. Balanced Binary Tree](0110-balanced-binary-tree/)
+- [111. Minimum Depth of Binary Tree](0111-minimum-depth-of-binary-tree/)
+- [112. Path Sum](0112-path-sum/)
+- [113. Path Sum II](0113-path-sum-ii/)
+- [124. Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum/)
+- [129. Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers/)
+- [144. Binary Tree Preorder Traversal](0144-binary-tree-preorder-traversal/)
+- [145. Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/)
+- [199. Binary Tree Right Side View](0199-binary-tree-right-side-view/)
+- [226. Invert Binary Tree](0226-invert-binary-tree/)
+- [230. Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/)
+- [236. Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree/)
+- [257. Binary Tree Paths](0257-binary-tree-paths/)
+- [515. Find Largest Value in Each Tree Row](0515-find-largest-value-in-each-tree-row/)
+- [543. Diameter of Binary Tree](0543-diameter-of-binary-tree/)
+- [700. Search in a Binary Search Tree](0700-search-in-a-binary-search-tree/)
+- [701. Insert into a Binary Search Tree](0701-insert-into-a-binary-search-tree/)
+- [2492. Length of the Longest Alphabetical Continuous Substring](2414-length-of-the-longest-alphabetical-continuous-substring/)
+
+### Stacks and Queues
+
+- [20. Valid Parentheses](0020-valid-parentheses/)
+- [32. Longest Valid Parentheses](0032-longest-valid-parentheses/)
+- [71. Simplify Path](0071-simplify-path/)
+- [84. Largest Rectangle in Histogram](0084-largest-rectangle-in-histogram/)
+- [150. Evaluate Reverse Polish Notation](0150-evaluate-reverse-polish-notation/)
+- [155. Min Stack](0155-min-stack/)
+- [225. Implement Stack using Queues](0225-implement-stack-using-queues/)
+- [232. Implement Queue using Stacks](0232-implement-queue-using-stacks/)
+- [394. Decode String](0394-decode-string/)
+- [402. Remove K Digits](0402-remove-k-digits/)
+- [496. Next Greater Element I](0496-next-greater-element-i/)
+- [503. Next Greater Element II](0503-next-greater-element-ii/)
+- [622. Design Circular Queue](0622-design-circular-queue/)
+- [682. Baseball Game](0682-baseball-game/)
+- [739. Daily Temperatures](0739-daily-temperatures/)
+- [856. Score of Parentheses](0856-score-of-parentheses/)
+- [901. Online Stock Span](0901-online-stock-span/)
+- [921. Minimum Add to Make Parentheses Valid](0921-minimum-add-to-make-parentheses-valid/)
+- [1021. Remove Outermost Parentheses](1021-remove-outermost-parentheses/)
+- [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/)
+- [1614. Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/)
+- [1700. Number of Students Unable to Eat Lunch](1700-number-of-students-unable-to-eat-lunch/)
+- [1807. Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/)
+- [2390. Removing Stars From a String](2390-removing-stars-from-a-string/)
+
+### Searching and Sorting
+
+- [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/)
+- [26. Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/)
+- [33. Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/)
+- [34. Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/)
+- [35. Search Insert Position](0035-search-insert-position/)
+- [74. Search a 2D Matrix](0074-search-a-2d-matrix/)
+- [75. Sort Colors](0075-sort-colors/)
+- [88. Merge Sorted Array](0088-merge-sorted-array/)
+- [167. Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted/)
+- [324. Wiggle Sort II](0324-wiggle-sort-ii/)
+- [349. Intersection of Two Arrays](0349-intersection-of-two-arrays/)
+- [350. Intersection of Two Arrays II](0350-intersection-of-two-arrays-ii/)
+- [852. Peak Index in a Mountain Array](0852-peak-index-in-a-mountain-array/)
+- [905. Sort Array By Parity](0905-sort-array-by-parity/)
+- [922. Sort Array By Parity II](0922-sort-array-by-parity-ii/)
+- [2089. Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/)
+- [3863. Minimum Operations to Sort a String](3863-minimum-operations-to-sort-a-string/)
+
+### Two Pointers and Sliding Window
+
+- [1. Two Sum](0001-two-sum/)
+- [11. Container With Most Water](0011-container-with-most-water/)
+- [15. 3Sum](0015-3sum/)
+- [16. 3Sum Closest](0016-3sum-closest/)
+- [18. 4Sum](0018-4sum/)
+- [27. Remove Element](0027-remove-element/)
+- [42. Trapping Rain Water](0042-trapping-rain-water/)
+- [125. Valid Palindrome](0125-valid-palindrome/)
+- [189. Rotate Array](0189-rotate-array/)
+- [283. Move Zeroes](0283-move-zeroes/)
+- [344. Reverse String](0344-reverse-string/)
+- [345. Reverse Vowels of a String](0345-reverse-vowels-of-a-string/)
+- [485. Max Consecutive Ones](0485-max-consecutive-ones/)
+- [557. Reverse Words in a String III](0557-reverse-words-in-a-string-iii/)
+- [567. Permutation in String](0567-permutation-in-string/)
+- [643. Maximum Average Subarray I](0643-maximum-average-subarray-i/)
+- [680. Valid Palindrome II](0680-valid-palindrome-ii/)
+- [844. Backspace String Compare](0844-backspace-string-compare/)
+- [904. Fruit Into Baskets](0904-fruit-into-baskets/)
+- [2091. Removing Minimum and Maximum From Array](2091-removing-minimum-and-maximum-from-array/)
+- [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/)
+- [3364. Minimum Positive Sum Subarray](3364-minimum-positive-sum-subarray/)
+
+### Dynamic Programming and Greedy
+
+- [45. Jump Game II](0045-jump-game-ii/)
+- [53. Maximum Subarray](0053-maximum-subarray/)
+- [55. Jump Game](0055-jump-game/)
+- [62. Unique Paths](0062-unique-paths/)
+- [70. Climbing Stairs](0070-climbing-stairs/)
+- [115. Distinct Subsequences](0115-distinct-subsequences/)
+- [118. Pascal's Triangle](0118-pascals-triangle/)
+- [120. Triangle](0120-triangle/)
+- [198. House Robber](0198-house-robber/)
+- [213. House Robber II](0213-house-robber-ii/)
+- [337. House Robber III](0337-house-robber-iii/)
+- [509. Fibonacci Number](0509-fibonacci-number/)
+- [560. Subarray Sum Equals K](0560-subarray-sum-equals-k/)
+- [746. Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/)
+- [940. Distinct Subsequences II](0940-distinct-subsequences-ii/)
+- [1025. Divisor Game](1025-divisor-game/)
+
+### Math and Bit Manipulation
+
+- [7. Reverse Integer](0007-reverse-integer/)
+- [9. Palindrome Number](0009-palindrome-number/)
+- [12. Integer to Roman](0012-integer-to-roman/)
+- [13. Roman to Integer](0013-roman-to-integer/)
+- [50. Pow(x, n)](0050-powx-n/)
+- [66. Plus One](0066-plus-one/)
+- [69. Sqrt(x)](0069-sqrtx/)
+- [202. Happy Number](0202-happy-number/)
+- [223. Rectangle Area](0223-rectangle-area/)
+- [258. Add Digits](0258-add-digits/)
+- [263. Ugly Number](0263-ugly-number/)
+- [268. Missing Number](0268-missing-number/)
+- [412. Fizz Buzz](0412-fizz-buzz/)
+- [453. Minimum Moves to Equal Array Elements](0453-minimum-moves-to-equal-array-elements/)
+- [462. Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/)
+- [507. Perfect Number](0507-perfect-number/)
+- [754. Reach a Number](0754-reach-a-number/)
+- [836. Rectangle Overlap](0836-rectangle-overlap/)
+- [1401. Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/)
+- [2235. Add Two Integers](2235-add-two-integers/)
+- [2243. Calculate Digit Sum of a String](2243-calculate-digit-sum-of-a-string/)
+- [2778. Sum of Squares of Special Elements](2778-sum-of-squares-of-special-elements/)
+- [2913. Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/)
+- [2914. Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/)
+- [3270. Find the Key of the Numbers](3270-find-the-key-of-the-numbers/)
+- [3289. The Two Sneaky Numbers of Digitville](3289-the-two-sneaky-numbers-of-digitville/)
+- [3498. Reverse Degree of a String](3498-reverse-degree-of-a-string/)
+- [3550. Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/)
+- [3727. Maximum Alternating Sum of Squares](3727-maximum-alternating-sum-of-squares/)
+- [3736. Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/)
+- [3870. Count Commas in Range](3870-count-commas-in-range/)
+- [3871. Count Commas in Range II](3871-count-commas-in-range-ii/)
+- [4043-Count-Rotations-With-Exactly-K-Equal-Adjacent-Pairs](4043-Count-Rotations-With-Exactly-K-Equal-Adjacent-Pairs/)
+- [4044. Count Good Cyclic Rotations](4044-count-good-cyclic-rotations/)
+
+### Matrices and Simulation
+
+- [36. Valid Sudoku](0036-valid-sudoku/)
+- [48. Rotate Image](0048-rotate-image/)
+- [54. Spiral Matrix](0054-spiral-matrix/)
+- [59. Spiral Matrix II](0059-spiral-matrix-ii/)
+
+### SQL
+
+- [584. Find Customer Referee](0584-find-customer-referee/)
+- [595. Big Countries](0595-big-countries/)
+- [1148. Article Views I](1148-article-views-i/)
+- [1527. Patients With a Condition](1527-patients-with-a-condition/)
+- [1757. Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/)
+
